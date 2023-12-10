@@ -1,0 +1,159 @@
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe.config
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Form1.resources
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Properties.Resources.resources
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CopyComplete
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe.config
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Form1.resources
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Properties.Resources.resources
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CopyComplete
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\APEN_projekt_red - Copy\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe.config
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Form1.resources
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\Projekt_Pink\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe.config
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Form1.resources
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.exe
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.pdb
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.MessageForm.resources
+C:\Users\Admin\Desktop\Final nghiem tuc\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.AdsForm.resources
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe.config
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.exe
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\catcal_projekt.pdb
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.AdsForm.resources
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Form1.resources
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.MessageForm.resources
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.Properties.Resources.resources
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.csproj.CopyComplete
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.exe
+C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\obj\Debug\catcal_projekt.pdb
