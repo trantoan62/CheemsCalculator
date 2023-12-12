@@ -21,7 +21,10 @@ Hoac neu cac ban muon di chuyen file, xin hay chinh sua URL theo cac buoc sau:
 
 	(them 1 dau "\" o duong dan thanh "\\" de khong bi loi)
 
-- Hoặc đặt thư mục trong download là:  C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\AdsForm.cs, kiểu vậy
+- Hoặc đặt thư mục trong download là:  C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN, kiểu vậy
+
+![image](https://github.com/trantoan62/CheemsCalculator/assets/106214673/96e769a4-c063-4f1f-aec4-2401d8bc554a)
+
 
 - Hoan thanh
 
