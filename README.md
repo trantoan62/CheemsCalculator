@@ -21,6 +21,8 @@ Hoac neu cac ban muon di chuyen file, xin hay chinh sua URL theo cac buoc sau:
 
 	(them 1 dau "\" o duong dan thanh "\\" de khong bi loi)
 
+- Hoặc đặt thư mục trong download là:  C:\Users\Admin\Downloads\TranQuocToan_19146090_tieuluanAPEN\catcal_projekt\catcal_projekt\AdsForm.cs, kiểu vậy
+
 - Hoan thanh
 
 
